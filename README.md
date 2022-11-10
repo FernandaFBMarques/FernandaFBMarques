@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandaFBMarques
 - 👀 I’m interested in learning everything I can
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on group projects or anything I can help
 - 📫 How to reach me mfernandafbmarques@gmail.com
 
