@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandaFBMarques
 - 👀 I’m interested in learning everything I can
-- 🌱 I’m currently learning Java, Python, C, Django and Selenium
+- 🌱 I’m currently learning Java, Python, C, Django, Selenium and Data Science
 - 💞️ I’m looking to collaborate on group projects or anything I can help
 - 📫 How to reach me mfernandafbmarques@gmail.com
 
